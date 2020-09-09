@@ -1,7 +1,7 @@
 {
   "private": true,
   "dependencies": {
-    "docpad": "6.78.4",
+    "docpad": "6.83.2",
     "docpad-plugin-eco": "~2.1.0",
     "docpad-plugin-highlightjs": "~2.3.0",
     "docpad-plugin-less": "~2.4.1",
